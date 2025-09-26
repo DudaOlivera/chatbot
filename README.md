@@ -45,8 +45,8 @@ Siga os passos abaixo para configurar e executar o projeto.
 **1. Clone o Repositório**
 
 ```bash
-git clone <chat>
-cd <chatbot>
+git clone https://github.com/DudaOlivera/chatbot.git
+cd chatbot
 ```
 
 **2. Crie um Ambiente Virtual e Ative-o**
