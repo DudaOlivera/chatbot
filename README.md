@@ -4,19 +4,15 @@ Este projeto é um assistente virtual (chatbot) que automatiza o processo de qua
 
 ## Fluxo de Qualificação
 
-O comportamento do bot é baseado no seguinte fluxo de processo:
-
-*(Nota: Substitua o link acima pelo caminho para a imagem do seu fluxograma, se desejar)*
-
 As principais etapas e decisões do fluxo são:
 
 1.  **Entrada do Lead**: Um novo lead entra em contato via WhatsApp.
-2.  [cite\_start]**Qualificação com IA**: O bot inicia uma conversa para coletar dados com base nas perguntas de qualificação[cite: 1].
-3.  [cite\_start]**Análise de Perfil**: A IA analisa se o lead pertence ao ramo de atuação desejado (ex: segurança eletrônica)[cite: 1].
-4.  [cite\_start]**Análise de Maturidade**: O sistema verifica se o lead é considerado "maduro" (por exemplo, com base no número de colaboradores) para decidir se avança ou entra em um fluxo de nutrição[cite: 1].
+2.  **Qualificação com IA**: O bot inicia uma conversa para coletar dados com base nas perguntas de qualificação.
+3.  **Análise de Perfil**: A IA analisa se o lead pertence ao ramo de atuação desejado (ex: segurança eletrônica).
+4.  **Análise de Maturidade**: O sistema verifica se o lead é considerado "maduro" (por exemplo, com base no número de colaboradores) para decidir se avança ou entra em um fluxo de nutrição.
 5.  **Decisão**: Com base nas respostas, o lead é classificado como:
       * **Qualificado**: Pronto para ser abordado por um vendedor (Hunter).
-      * [cite\_start]**Desqualificado/Nutrição**: Não possui o perfil ideal no momento e pode receber materiais de marketing para amadurecimento[cite: 1].
+      * **Desqualificado/Nutrição**: Não possui o perfil ideal no momento e pode receber materiais de marketing para amadurecimento.
 
 ## Features
 
@@ -49,8 +45,8 @@ Siga os passos abaixo para configurar e executar o projeto.
 **1. Clone o Repositório**
 
 ```bash
-git clone <url-do-seu-repositorio>
-cd <nome-do-repositorio>
+git clone <chat>
+cd <chatbot>
 ```
 
 **2. Crie um Ambiente Virtual e Ative-o**
